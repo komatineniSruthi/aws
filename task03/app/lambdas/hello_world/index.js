@@ -1,8 +1,8 @@
 exports.handler = async (event) => {
-    // TODO implement
+    console.log("Request received");
     const response = {
         statusCode: 200,
-        message: 'Hello from Lambda',
+        message: "Hello from Lambda"
     };
     return response;
 };
