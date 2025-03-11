@@ -1,0 +1,16 @@
+account_id: '376129861747'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-6620/f362ffb4/task08
+expiration: 2025-03-11 06:04:59.886142+00:00
+extended_prefix_mode: true
+project_path: C:\Users\komatineni_sruthi\Desktop\aws\aws
+region: eu-west-1
+resources_prefix: cmtr-f362ffb4-
+tags:
+  run_id: JAP-08
+  run_type: stm
+  type: user
+  user_id: f362ffb4
+temp_aws_access_key_id: ASIAVPEYWHBZ7T5LWKRT
+temp_aws_secret_access_key: c7nnioCwgXZ8a+qv05B03779xOv0bQP9voSsxzrf
+temp_aws_session_token: IQoJb3JpZ2luX2VjEFYaCXVzLWVhc3QtMSJIMEYCIQDMGhu41CvgyY13/KCtEJocvOLmAX/3tRSsQleWOym/WAIhAJVJWDzDF8WnpE6kCMC4qTPNX6uLcDDlxO/5seluoBFHKuMCCJ7//////////wEQABoMMzc2MTI5ODYxNzQ3Igxte15jtrFfL1E7rG4qtwLjkjMu9u0beHiPd+6wxZA0CbjkMRSmhfD5eoD2rKJIiRYap6J8E/EL1mIcKq+XmfmQ9YAf+3Q1rnhIh2Y0H4hNb4IIbXiAXfZxc64E5DxptuT+eEFCI7l/jvPKj+FChR0Ami5WJCyQBlsOzpyuiFYmQ7wgIwCJ2tdw8up+cJAeKO7EEaDdsW38Qz0c4FMvcpKhRD5KxTgtiKt69dKmDP8d5qqjzh+G8qnXXggcgTRLFSWNpI42hXFtsNZHQa189zNH/2fn6iFLTlv/JiXh/5GB4k9q8MnbpfSiKnBDTt5BE5zr3RYuyimyKvKzDkefPDkD1GoOLTNiXSTxFOrj4w5ExxTkFV+ou8P9jgvEV7s6P0lf91BoBuMfVWk28u5DVn2lFH3ClH7WzgT/llJK0cigiji31ykSjjCEjb++BjqcAUk4OdF22e9ukLebQSDgZUYVswwBQbp8wOFaxHiGL7s7Farkxj97anDI8t5asAK62nbF2w7NNVWep6KHNdQR0qclNyIfyf35K05FNJlrvm7/1C+UlJkc5x+VsUg4WjE/Nq04dsw1JG7L7HbA5vkOmjN4fYD1dSsThCEeWWlxU1uTie+ZTxfNnf6TzDcgvO+AWSSnyBqnVF5FsbFAeA==
+use_temp_creds: false
